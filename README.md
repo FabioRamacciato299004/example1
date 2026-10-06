@@ -1,3 +1,3 @@
 # example1
 
-**This is the management* repo.
+**This** *is the management* repo.
